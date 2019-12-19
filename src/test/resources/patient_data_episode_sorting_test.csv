@@ -1,0 +1,31 @@
+Date, PatientId, Attribute Name, Attribute Value
+2019-12-12, 1, Age,  23
+2019-12-12, 1, Blood pressure, 160
+2019-12-12, 1, Gender, F
+2019-12-12, 1, Glucose, 11.1
+2019-12-12, 1, Diabetes, TRUE
+2019-12-12, 1, WCC, 120
+2019-12-09, 1, Age,  23
+2019-12-09, 1, Blood pressure, 160
+2019-12-09, 1, Gender, F
+2019-12-09, 1, Glucose, 11.1
+2019-12-09, 1, Diabetes, TRUE
+2019-12-09, 1, WCC, 120
+2019-12-14, 1, Age,  23
+2019-12-14, 1, Blood pressure, 160
+2019-12-14, 1, Gender, F
+2019-12-14, 1, Glucose, 11.1
+2019-12-14, 1, Diabetes, TRUE
+2019-12-14, 1, WCC, 120
+2019-12-11, 1, Age,  23
+2019-12-11, 1, Blood pressure, 160
+2019-12-11, 1, Gender, F
+2019-12-11, 1, Glucose, 11.1
+2019-12-11, 1, Diabetes, TRUE
+2019-12-11, 1, WCC, 120
+2019-12-13, 1, Age,  23
+2019-12-13, 1, Blood pressure, 160
+2019-12-13, 1, Gender, F
+2019-12-13, 1, Glucose, 11.1
+2019-12-13, 1, Diabetes, TRUE
+2019-12-13, 1, WCC, 120

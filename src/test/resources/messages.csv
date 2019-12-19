@@ -1,0 +1,61 @@
+Date, PatientId, Attribute Name, Attribute Value
+2019-12-09, 1, Age, 23
+2019-12-09, 1, Blood pressure, 160
+2019-12-09, 1, Gender, F
+2019-12-09, 1, Glucose, 11.1
+2019-12-09, 1, Diabetes, TRUE
+2019-12-09, 1, WCC, 120
+2019-12-09, 2, Age, 31
+2019-12-09, 2, Blood pressure, 190
+2019-12-09, 2, Glucose, 5.5
+2019-12-09, 2, Diabetes, FALSE
+2019-12-09, 2, Gender, M
+2019-12-09, 2, WCC, 312
+2019-12-11, 1, Age, 23
+2019-12-11, 1, Blood pressure, 180
+2019-12-11, 1, Glucose, 12.2
+2019-12-11, 1, Diabetes, TRUE
+2019-12-11, 1, WCC, 212
+2019-12-11, 1, Gender, F
+2019-12-14, 3, Age, 26
+2019-12-14, 3, Blood pressure, 210
+2019-12-14, 3, Glucose, 9.7
+2019-12-14, 3, Diabetes, TRUE
+2019-12-14, 3, WCC, 110
+2019-12-14, 3, Gender, F
+2019-12-12, 3, Age, 26
+2019-12-12, 3, Blood pressure, 211
+2019-12-12, 3, Glucose, 9.5
+2019-12-12, 3, Diabetes, TRUE
+2019-12-12, 3, WCC, 110
+2019-12-12, 3, Gender, F
+2019-12-12, 4, Age, 25
+2019-12-12, 4, Blood pressure, 210
+2019-12-12, 4, Glucose, 9.9
+2019-12-12, 4, Diabetes, TRUE
+2019-12-12, 4, WCC, 110
+2019-12-12, 4, Gender, M
+2019-12-08, 1, Age, 23
+2019-12-08, 1, Blood pressure, 185
+2019-12-08, 1, Glucose, 12.0
+2019-12-08, 1, Diabetes, TRUE
+2019-12-08, 1, WCC, 210
+2019-12-08, 1, Gender, F
+2019-12-11, 4, Age, 25
+2019-12-11, 4, Blood pressure, 215
+2019-12-11, 4, Glucose, 9.5
+2019-12-11, 4, Diabetes, TRUE
+2019-12-11, 4, WCC, 111
+2019-12-11, 4, Gender, M
+2019-12-15, 4, Age, 25
+2019-12-15, 4, Blood pressure, 219
+2019-12-15, 4, Glucose, 9.9
+2019-12-15, 4, Diabetes, TRUE
+2019-12-15, 4, WCC, 118
+2019-12-15, 4, Gender, M
+2019-12-15, 5, Age, 25
+2019-12-15, 5, Blood pressure, 219
+2019-12-15, 5, Glucose, 9.9
+2019-12-15, 5, Diabetes, TRUE
+2019-12-15, 5, WCC, 118
+2019-12-15, 5, Gender, M
